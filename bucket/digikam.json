@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://download.kde.org/stable/digikam/$version/digiKam-$version-Win64.exe#/dl.7z"
+                "url": "https://download.kde.org/stable/digikam/$version/digiKam-$version-Win64.exe"
             },
             "32bit": {
-                "url": "https://download.kde.org/stable/digikam/$version/digiKam-$version-Win32.exe#/dl.7z"
+                "url": "https://download.kde.org/stable/digikam/$version/digiKam-$version-Win32.exe"
             }
         },
         "hash": {
